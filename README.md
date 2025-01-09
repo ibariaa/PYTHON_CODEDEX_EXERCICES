@@ -46,14 +46,17 @@ Voici comment les fichiers sont organisés :
 ## 🚀 Comment utiliser ce dépôt
 
 1. Clone ce dépôt sur ton terminal :
+   ```
    git clone git@github.com:ibariaa/PYTHON_CODEDEX_EXERCICES.git
-   
+   ```
 3. Navigue dans le répertoire :
+   ```
    cd Control_flow (par exemple)
-   
+   ```
 5. Exécute les scripts Python :
+   ```
    python3 Control_flow/the_sroting_hat.py (par exemple)
-
+    ```
 ## 📌 Notes
 
 - Tous les exercices incluent des commentaires pour expliquer les consignes.
