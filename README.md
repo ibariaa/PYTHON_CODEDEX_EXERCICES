@@ -13,7 +13,7 @@ L'objectif de ce dépôt est de :
 
 Voici comment les fichiers sont organisés :
 
-
+```
 .
 ├── Control_flow/
 │   ├── grades.py
@@ -35,7 +35,7 @@ Voici comment les fichiers sont organisés :
     ├── currency.py
     ├── hypotenuse.py
     └── temperatures.py
-
+```
 
 - Control_flow/ : Utilisation des structures conditionnelles pour diriger l'exécution du programme.
 - Hello_world/ : Configuration de l'environnement de développement et introduction à l'exécution de code Python.
