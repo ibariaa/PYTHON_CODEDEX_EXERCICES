@@ -1,6 +1,6 @@
 # Exercices Python 🐍
 
-Bienvenue dans mon dépôt GitHub dédié à mes exercices Python ! Ce dépôt contient des exercices et des exemples pour m'entraîner à coder en Python. 📚
+Bienvenue dans mon dépôt GitHub dédié à mes exercices Python ! Ce dépôt contient des solutions et des exemples pour m'entraîner à coder en Python. 📚
 
 ## 🎯 Objectif
 
@@ -14,13 +14,13 @@ L'objectif de ce dépôt est de :
 Voici comment les fichiers sont organisés :
 
 ```
-.
+/exercices
 ├── Control_flow/
 │   ├── grades.py
 │   ├── magic8.py
 │   ├── ph_levels.py
-|   ├── the_cyclones.py
-|   └── the_sorting_hat.py
+│   ├── the_cyclones.py
+│   └── the_sorting_hat.py
 ├── Hello_world/
 │   ├── hello_world.py
 │   ├── initials.py
@@ -30,38 +30,39 @@ Voici comment les fichiers sont organisés :
 │   ├── enter_pin.py
 │   └── guess.py
 ├── README.md
-└── Variables/
-    ├── bmi.py
-    ├── currency.py
-    ├── hypotenuse.py
-    └── temperatures.py
+├── Variables/
+│   ├── bmi.py
+│   ├── currency.py
+│   ├── hypotenuse.py
+│   └── temperatures.py
 ```
 
-- Control_flow/ : Utilisation des structures conditionnelles pour diriger l'exécution du programme.
-- Hello_world/ : Configuration de l'environnement de développement et introduction à l'exécution de code Python.
-- Loop/ : Apprentissage des structures itératives pour répéter des actions.
-- Variables/ : Compréhension des différents types de données et de la déclaration de variables.
-
+- `Control_flow/` : Exercices sur les structures conditionnelles en Python.
+- `Hello_world/` : Exercices de base pour apprendre à afficher des messages et manipuler des chaînes.
+- `Loop/` : Exercices pour comprendre et utiliser les boucles.
+- `Variables/` : Exercices pour déclarer et manipuler des variables.
 
 ## 🚀 Comment utiliser ce dépôt
 
 1. Clone ce dépôt sur ton terminal :
+   ```bash
+   git clone https://github.com/tonnomutilisateur/exercices-python.git
    ```
-   git clone git@github.com:ibariaa/PYTHON_CODEDEX_EXERCICES.git
+2. Navigue dans le répertoire :
+   ```bash
+   cd exercices-python
    ```
-3. Navigue dans le répertoire :
+3. Exécute les scripts Python :
+   ```bash
+   python3 exercices/Control_flow/grades.py
    ```
-   cd Control_flow (par exemple)
-   ```
-5. Exécute les scripts Python :
-   ```
-   python3 Control_flow/the_sroting_hat.py (par exemple)
-    ```
+
 ## 📌 Notes
 
-- Tous les exercices incluent des commentaires pour expliquer les consignes.
+- Tous les exercices incluent des commentaires pour expliquer les exercices.
 
 ## 📧 Contact
 
 Si tu as des questions, n'hésite pas à me contacter via GitHub ou par email à elaia.ibarboure@epitech.eu.
+
 
