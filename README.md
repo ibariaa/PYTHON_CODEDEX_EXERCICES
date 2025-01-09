@@ -31,10 +31,10 @@ Voici comment les fichiers sont organisés :
 │   └── guess.py
 ├── README.md
 ├── Variables/
-│   ├── bmi.py
-│   ├── currency.py
-│   ├── hypotenuse.py
-│   └── temperatures.py
+    ├── bmi.py
+    ├── currency.py
+    ├── hypotenuse.py
+    └── temperatures.py
 ```
 
 - `Control_flow/` : Exercices sur les structures conditionnelles en Python.
