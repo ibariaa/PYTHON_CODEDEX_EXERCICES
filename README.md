@@ -30,7 +30,7 @@ Voici comment les fichiers sont organisés :
 │   ├── enter_pin.py
 │   └── guess.py
 ├── README.md
-├── Variables/
+└── Variables/
     ├── bmi.py
     ├── currency.py
     ├── hypotenuse.py
